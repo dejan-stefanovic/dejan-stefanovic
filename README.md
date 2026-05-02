@@ -11,3 +11,6 @@ Actuarial Science grad turned ML Engineer. I build AI systems, currently Project
 ![](https://github-readme-stats.shion.dev/api?username=dejan-stefanovic&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dejan-stefanovic&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dejan-stefanovic&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/DejanStef) 
