@@ -1,5 +1,5 @@
 # Hi, I'm Dejan 👋
-**Machine Learning Engineer** | B.Sc. Actuarial Science, Simon Fraser University
+**New Grad | ML & Data Science** | B.Sc. Actuarial Science, Simon Fraser University
 
 ## About Me:
 I am a recent Actuarial Science graduate from Simon Fraser University with a strong interest in Machine Learning Engineering, AI systems, and applied data science. I enjoy building practical AI-driven tools that solve real problems, from automating business workflows to developing full-stack ML applications. My experience spans Python, PyTorch, XGBoost, SQL, AWS, and local LLM systems, with projects focused on predictive modeling, intelligent automation, voice AI, and computer vision.
